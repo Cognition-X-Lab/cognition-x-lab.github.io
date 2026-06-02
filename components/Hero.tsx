@@ -4,7 +4,7 @@ import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { site, news } from '@/lib/data'
 
 export function Hero() {
-  const items = [...news].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+  const items = [...news].sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true })) //new Date(b.date).getTime() - new Date(a.date).getTime())
 
   const listRef = useRef<HTMLDivElement | null>(null)
   const [maxH, setMaxH] = useState<string | undefined>(undefined)

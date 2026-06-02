@@ -99,7 +99,7 @@ export const people: Person[] = [
       }
     ],
     links: {
-      scholar: 'https://scholar.google.com/citations?user=S4BK0DIAAAAJ&hl=en&oi=ao',
+      scholar: 'https://scholar.google.com/citations?user=jvdogE4AAAAJ&hl=en&oi=ao',
       github: 'https://github.com/csydora',
       linkedin: 'https://www.linkedin.com/in/christoph-sydora-a7194b171/',
       website: 'https://csydora.ca/',
@@ -178,6 +178,36 @@ export const people: Person[] = [
       email: 'ruixuan-qi@u.nus.edu',
     },
     intake: 'Fall 2025',
+  },
+  {
+    id: 'ug-1',
+    slug: 'raquel-jardim',
+    name: 'Raquel Jardim',
+    role: 'Visiting Undergraduate Summer Student',
+    group: 'Undergrad',
+    avatar: '/people/Unknown.jpg',
+    bio: 'Raquel is an Economics undergraduate student at Williams College. Her research focuses on Behavioral and Applied Microeconomics, with projects analyzing online content creation platforms as income insurance and the behavioral drivers of humanitarian giving. As a Research Intern at the National University of Singapore, she investigates the relationship between corporate carbon emissions and greenwashing.',
+    interests: ['Behavioral Economics', 'Applied Econometrics', 'Digital Labor Markets', 'Environmental Economics', 'Economics of Risk'],
+    education: [],
+    links: {
+      email: 'raquel.jardim@u.nus.edu',
+    },
+    intake: 'Summer 2026',
+  },
+  {
+    id: 'ug-2',
+    slug: 'ahad-nardekar',
+    name: 'Ahad Nardekar',
+    role: 'Visiting Undergraduate Summer Student',
+    group: 'Undergrad',
+    avatar: '/people/Unknown.jpg',
+    bio: 'Ahad is an undergraduate student at Indian Institute of Technology Delhi pursuing B.Tech in Civil Engineering. His research focuses on application of AI/ML models to Core Engineering Problems, with prior experience of working on projects such as Structural Analysis Engine, Hydrological Catchment Analysis and Dynamic Analysis of Cracking Patterns in Failures of Structures. As a Research Intern at National University of Singapore, in the Department of Built Environment, he is working on the Forensic Accounting of Corporate Sustainability Pledges using LLMs.',
+    interests: ['Civil Engineering', 'Machine Learning', 'Structural Analysis', 'Data Structures & Algorithms', 'Computational Modelling', 'Management Accounting', 'Financial Statement Analysis', 'Deep Learning'],
+    education: [],
+    links: {
+      email: 'ahadnardekar@u.nus.edu',
+    },
+    intake: 'Summer 2026',
   }
 ]
 
@@ -1038,6 +1068,7 @@ export const news: NewsItem[] = [
   { id: 'n8', date: '12 Jan 2026', title: '🎉 Welcome Mr. Ruiyan Zheng who joins Cognition X Lab, NUS Department of the Built Enviornment as a Research Engineer/PhD Student.' },
   { id: 'n9', date: '6 Apr 2026', title: '🎉 Welcome Dr. Christoph P. Sydora who joins Cognition X Lab,  NUS Department of the Built Enviornment as a Research Fellow.'},
   { id: 'n10', date: '13 Apr 2026', title: '📢 Cognition X Lab had a sharing session with the Reasonable Design Lab led by Prof Pieter Herthogs from Department of Architecture, NUS'},
+  { id: 'n11', date: '26 May 2026', title: '🎉 Welcome Ahad Nardekar and Raquel Jardim who are joining Cognition X Lab,  NUS Department of the Built Enviornment as Undergraduate Summer Students.'},
 ]
 export const map = {
   lat: 1.2966,
