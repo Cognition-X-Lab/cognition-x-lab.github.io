@@ -186,7 +186,7 @@ export const people: Person[] = [
     name: 'Dossiya Dakou',
     role: 'Visting Master Student',
     group: 'Masters',
-    avatar: '',
+    avatar: '/people/Dossiya.png',
     bio: 'Dossiya is pursuing his MSc degree in Sustainable Engineering at Arizona State University. He is visiting us for three months funded by Mastercard Scholarship',
     interests: ['Sustainability', 'Infrastructure'],
     education: [],
