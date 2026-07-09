@@ -49,8 +49,6 @@ We ask the MOST Important Research Questions even they are challenging!
 
 <details>
 
-</Roles and Expectations  >
-
 <summary><strong>Roles and Expectations </strong></summary>
 
 PI, postdocs, PhD students, visiting scholars/PhDs, graduate/undergraduate research assistants
@@ -89,10 +87,6 @@ Undergraduate Research Students
 •	Keep regular hours; learn version control and research compendium basics.
 •	Earn course credit or hourly pay (subject to availability and policy).
 
-<a href="./lab-manual.pdf#page=8" target="_blank" rel="noopener">Open Lab Manual (page 8)</a>
-
-<iframe src="./lab-manual.pdf#page=8" width="100%" height="480" title="Lab Manual - Equipment"></iframe>
-</details>
 
 <details>
 </Key documents>
