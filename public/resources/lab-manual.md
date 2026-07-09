@@ -26,6 +26,8 @@ First of all, I would like to let you know the kind of professor I want to be:
 - Show passion for helping with scientific problems as well as non-scientific ones.
 - Be empathetic, understand other people's concerns without making them feel embarrassed and inadequate. 
 
+</details>
+
 <details>
 <summary><strong>	Mission, Scope, and Core Values</strong></summary>
 - Mission: Design, build, and evaluate data-centric cognitive systems (the “project brain”) that perceive, learn, and actuate in complex project and infrastructure environments to improve efficiency, safety, sustainability, and resilience.
@@ -37,10 +39,12 @@ First of all, I would like to let you know the kind of professor I want to be:
 We respect Critical Thinking, Creative Thinking, Systems Thinking, and also make our ideas happening.
 We ask the MOST Important Research Questions even they are challenging!
 
-<details>
+</details>
 
+<details>
 <summary><strong>Roles and Expectations</strong></summary>
-<summary><strong>PI, postdocs, PhD students, visiting scholars/PhDs, graduate/undergraduate research assistants</strong></summary>
+  
+### Everyone in the lab
   - Be positive, to yourself, to others, to work, to life, and to the world.
   - Respect your colleagues; foster a supportive, inclusive environment.
   -	Be proactive, reliable, and communicative. 
@@ -49,40 +53,48 @@ We ask the MOST Important Research Questions even they are challenging!
   -	Manage time responsibly, efficiency is more encouraged than long hours. 
   -	Seek help early to me, your family/friends, or professionals when necessary.
   -	Take care of lab spaces and shared resources; leave things you would like to find them.
-<summary><strong>PI (Lab Director)</strong></summary>
+  
+### PI (Lab Director)
   -	Maintain lab vision, fundraising, partnerships, and strategic direction.
   -	Provide regular advising (weekly or biweekly) and mentorship tailored to each member’s goals.
   -	Ensure resources, training, and professional development opportunities.
   -	Uphold culture of innovation, collaboration, excellence.
-<summary><strong>Research Fellow, Postdocs</strong></summary>
+  
+### Research Fellow, Postdocs
   -	Develop an independent research direction aligned with lab mission.
   -	Lead projects; mentor students; co-author proposals and papers.
   -	Apply for fellowships/grants (e.g., Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship).
   -	Target job market readiness by year 2–3.
-<summary><strong>PhD Students </strong></summary>
+  
+### PhD Students
   -	Build a coherent dissertation topic with 3+ publishable studies.
   -	Follow NUS PhD milestones (see Section 12).
   -	Publish consistently; lead systems/study work; practice open science.
   -	Mentor RAs; contribute to lab service (documentation, demos, reviews).
-<summary><strong>Visiting Scholars / Visiting PhD Students</strong></summary>
+
+### Visiting Scholars / Visiting PhD Students
   -	Define scope, deliverables, and timeline prior to arrival.
   -	Integrate with ongoing lab projects and contribute unique expertise.
   -	Observe NUS DBE policies; align publications/authorship early.
-<summary><strong>Graduate Research Assistants (Masters/RAs)</strong></summary>
+
+### Graduate Research Assistants (Masters/RAs)
   -	Support core projects (data collection, coding, analysis, documentation).
   -	Maintain weekly progress; escalate blockers; uphold reproducibility.
-<summary><strong>Undergraduate Research Students</strong></summary>
+
+### Undergraduate Research Students
   -	Assist with data, code, literature reviews, experiments.
   -	Keep regular hours; learn version control and research compendium basics.
   -	Earn course credit or hourly pay (subject to availability and policy).
 
+</details>
+
 <details>
-  
 <summary><strong>Key documents</strong></summary>
-<summary><strong>Research Proposal</strong></summary>
+  
+### Research Proposal
 When you write a research proposal for Postdoc Fellowship or PhD scholarships, bear in mind that you need to have a clear and significant research question backed by thorough literature review and theoretical and/or practical challenges. You need to have a detailed research plan with progressive research objectives, sensible research methodology, available data sources, data analysis methods, expected outcomes, contributions to knowledge (theoretical, methodological, practical) potential risks and mitigation plan, and a reasonable timeline. The research plan needs to be updated or adjusted during your research project, but to think it through first will help you have a plan to follow. Also, you need to have a roadmap of success and impact to measure your progress. I am always happy to discuss!
 
-<strong>Elements for the research proposal</strong>
+**Elements for the research proposal**
 -	Title and Abstract (150–250 words; problem, approach, expected impact).
 -	Problem Statement and Research Questions: Start with big picture, context, and significance; narrow down with specific problems and questions; discuss the reasons behind; and formulate a solid research question or a few dependent research questions.
 -	Literature Review: Focused synthesis, not a list; identify gaps and how your work addresses them.
@@ -96,17 +108,17 @@ When you write a research proposal for Postdoc Fellowship or PhD scholarships, b
 -	Roadmap of Success and Impact: Milestones to paper/prototype/pilot; impact pathways (academic, industry/policy short term, mid-term, and long term).
 -	Reproducibility: Code/data artifact plan, version control, licensing, preregistration if relevant.
 
-<summary><strong>Project Gantt Chart</strong></summary>
+### Project Gantt Chart
 In line with your research plan, make a project Gantt chart with the key work stages/ packages and milestones, keep track and monitor your process against your plan. If there is a major change needed, update with a new version.
-How it works
+**How it works**
 -	Work Packages (WPs): 3–8 coherent WPs (e.g., WP1 Literature & Scoping; WP2 Methods/Models; WP3 Data collection; WP4 Field/Pilot; WP5 Data Analysis/Validation; WP6 Writing & Dissemination).
 -	Milestones: Key stages and deliverables (e.g., literature review finished, IRB approval, dataset v1, model v1/v2, pilot complete, paper submissions).
 -	Review cadence: Baseline at project start; quick check monthly; re-baseline after major scope changes.
 
-<summary><strong>Work Tracker</strong></summary>
+### Work Tracker
 To keep track your work with fine-grained task history and reduce meeting time spent on recall, supports accountability and consistent actions, each of you should keep a work tracker and shall with me. It will help you and me keep track of the streams of work, what we discussed, what the actions and results, which tasks are completed, and which are ongoing.
 
-How it works
+**How it works**
 -	Structure (columns/fields):
   -	Task/Objective (link to issue/ticket)
   -	Context/Notes (what was tried, references)
@@ -116,10 +128,10 @@ How it works
   -	Links (PRs, commits, notebooks, data)
 -	Review cadence: weekly/bi-weekly or as work status changes; ensure updates before meetings.
 
-<summary><strong>CV Exercise</strong></summary>
+### CV Exercise</strong></summary>
 This exercise helps you design what you would like your CV looks when you finish your programme. Specifically, it aligns publications, teaching/service, skills, and awards/fellowships to a coherent career narrative.
 
-How it works:
+**How it works**
 -	Target CV (Future-State): An “aspirational CV” dated at programme end, with:
   -	Publications: Target venues and tentative titles.
   -	Awards/Fellowships: Targets and deadlines.
@@ -270,7 +282,6 @@ How it works:
 -	Field deployments: Risk assessment, permits, PPE, data security plans. 
 -	Conflicts of interest/compliance training: Complete mandatory NUS modules.
 
-
 </details>
 
 <details>
@@ -294,3 +305,5 @@ How it works:
 -	Recruitment process: Informal chats; portfolio/code review; alignment with lab culture and needs.
 -	Visitors: Define scope, deliverables, mentorship, and timeline; onboard to tools/policies.
 -	Diversity and inclusion: Seek diverse perspectives and backgrounds.
+
+</details>
