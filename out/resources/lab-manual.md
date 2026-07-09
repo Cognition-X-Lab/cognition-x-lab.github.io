@@ -31,7 +31,6 @@ First of all, I would like to let you know the kind of professor I want to be:
 - Show passion for helping with scientific problems as well as non-scientific ones.
 - Be empathetic, understand other people's concerns without making them feel embarrassed and inadequate. 
 
-
 <details>
 <summary><strong>	Mission, Scope, and Core Values</strong></summary>
 
@@ -48,50 +47,49 @@ We ask the MOST Important Research Questions even they are challenging!
 <details>
 
 <summary><strong>Roles and Expectations</strong></summary>
-
 <summary><strong>PI, postdocs, PhD students, visiting scholars/PhDs, graduate/undergraduate research assistants</strong></summary>
-- Be positive, to yourself, to others, to work, to life, and to the world.
-- Respect your colleagues; foster a supportive, inclusive environment.
--	Be proactive, reliable, and communicative. 
--	Document your work comprehensively.
--	Uphold research integrity, reproducibility, and open science.
--	Manage time responsibly, efficiency is more encouraged than long hours. 
--	Seek help early to me, your family/friends, or professionals when necessary.
--	Take care of lab spaces and shared resources; leave things you would like to find them.
+  - Be positive, to yourself, to others, to work, to life, and to the world.
+  - Respect your colleagues; foster a supportive, inclusive environment.
+  -	Be proactive, reliable, and communicative. 
+  -	Document your work comprehensively.
+  -	Uphold research integrity, reproducibility, and open science.
+  -	Manage time responsibly, efficiency is more encouraged than long hours. 
+  -	Seek help early to me, your family/friends, or professionals when necessary.
+  -	Take care of lab spaces and shared resources; leave things you would like to find them.
 <summary><strong>PI (Lab Director)</strong></summary>
--	Maintain lab vision, fundraising, partnerships, and strategic direction.
--	Provide regular advising (weekly or biweekly) and mentorship tailored to each member’s goals.
--	Ensure resources, training, and professional development opportunities.
--	Uphold culture of innovation, collaboration, excellence.
+  -	Maintain lab vision, fundraising, partnerships, and strategic direction.
+  -	Provide regular advising (weekly or biweekly) and mentorship tailored to each member’s goals.
+  -	Ensure resources, training, and professional development opportunities.
+  -	Uphold culture of innovation, collaboration, excellence.
 <summary><strong>Research Fellow, Postdocs</strong></summary>
--	Develop an independent research direction aligned with lab mission.
--	Lead projects; mentor students; co-author proposals and papers.
--	Apply for fellowships/grants (e.g., Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship).
--	Target job market readiness by year 2–3.
+  -	Develop an independent research direction aligned with lab mission.
+  -	Lead projects; mentor students; co-author proposals and papers.
+  -	Apply for fellowships/grants (e.g., Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship).
+  -	Target job market readiness by year 2–3.
 <summary><strong>PhD Students </strong></summary>
--	Build a coherent dissertation topic with 3+ publishable studies.
--	Follow NUS PhD milestones (see Section 12).
--	Publish consistently; lead systems/study work; practice open science.
--	Mentor RAs; contribute to lab service (documentation, demos, reviews).
+  -	Build a coherent dissertation topic with 3+ publishable studies.
+  -	Follow NUS PhD milestones (see Section 12).
+  -	Publish consistently; lead systems/study work; practice open science.
+  -	Mentor RAs; contribute to lab service (documentation, demos, reviews).
 <summary><strong>Visiting Scholars / Visiting PhD Students</strong></summary>
--	Define scope, deliverables, and timeline prior to arrival.
--	Integrate with ongoing lab projects and contribute unique expertise.
--	Observe NUS DBE policies; align publications/authorship early.
+  -	Define scope, deliverables, and timeline prior to arrival.
+  -	Integrate with ongoing lab projects and contribute unique expertise.
+  -	Observe NUS DBE policies; align publications/authorship early.
 <summary><strong>Graduate Research Assistants (Masters/RAs)</strong></summary>
--	Support core projects (data collection, coding, analysis, documentation).
--	Maintain weekly progress; escalate blockers; uphold reproducibility.
+  -	Support core projects (data collection, coding, analysis, documentation).
+  -	Maintain weekly progress; escalate blockers; uphold reproducibility.
 <summary><strong>Undergraduate Research Students</strong></summary>
--	Assist with data, code, literature reviews, experiments.
--	Keep regular hours; learn version control and research compendium basics.
--	Earn course credit or hourly pay (subject to availability and policy).
-
+  -	Assist with data, code, literature reviews, experiments.
+  -	Keep regular hours; learn version control and research compendium basics.
+  -	Earn course credit or hourly pay (subject to availability and policy).
 
 <details>
+  
 <summary><strong>Key documents</strong></summary>
 
 <summary><strong>Research Proposal</strong></summary>
-
 When you write a research proposal for Postdoc Fellowship or PhD scholarships, bear in mind that you need to have a clear and significant research question backed by thorough literature review and theoretical and/or practical challenges. You need to have a detailed research plan with progressive research objectives, sensible research methodology, available data sources, data analysis methods, expected outcomes, contributions to knowledge (theoretical, methodological, practical) potential risks and mitigation plan, and a reasonable timeline. The research plan needs to be updated or adjusted during your research project, but to think it through first will help you have a plan to follow. Also, you need to have a roadmap of success and impact to measure your progress. I am always happy to discuss!
+
 <strong>Elements for the research proposal</strong>
 -	Title and Abstract (150–250 words; problem, approach, expected impact).
 -	Problem Statement and Research Questions: Start with big picture, context, and significance; narrow down with specific problems and questions; discuss the reasons behind; and formulate a solid research question or a few dependent research questions.
@@ -116,6 +114,7 @@ How it works
 
 <summary><strong>Work Tracker</strong></summary>
 To keep track your work with fine-grained task history and reduce meeting time spent on recall, supports accountability and consistent actions, each of you should keep a work tracker and shall with me. It will help you and me keep track of the streams of work, what we discussed, what the actions and results, which tasks are completed, and which are ongoing.
+
 How it works
 -	Structure (columns/fields):
   -	Task/Objective (link to issue/ticket)
@@ -128,6 +127,7 @@ How it works
 
 <summary><strong>CV Exercise</strong></summary>
 This exercise helps you design what you would like your CV looks when you finish your programme. Specifically, it aligns publications, teaching/service, skills, and awards/fellowships to a coherent career narrative.
+
 How it works:
 -	Target CV (Future-State): An “aspirational CV” dated at programme end, with:
   -	Publications: Target venues and tentative titles.
@@ -140,6 +140,7 @@ How it works:
 -	Narrative: 1–2 paragraph personal “positioning statement” that ties your body of work to a distinct niche.
 -	Review cadence: Initial within first 6–8 weeks; update at semester boundary; use in annual review.
 
+</details>
 
 <details>
 <summary><strong>Code of Conduct and Inclusion</strong></summary>
