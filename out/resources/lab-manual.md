@@ -92,7 +92,7 @@ We ask the MOST Important Research Questions even they are challenging!
 <summary><strong>Research Proposal</strong></summary>
 
 When you write a research proposal for Postdoc Fellowship or PhD scholarships, bear in mind that you need to have a clear and significant research question backed by thorough literature review and theoretical and/or practical challenges. You need to have a detailed research plan with progressive research objectives, sensible research methodology, available data sources, data analysis methods, expected outcomes, contributions to knowledge (theoretical, methodological, practical) potential risks and mitigation plan, and a reasonable timeline. The research plan needs to be updated or adjusted during your research project, but to think it through first will help you have a plan to follow. Also, you need to have a roadmap of success and impact to measure your progress. I am always happy to discuss!
-<summary><strong>Elements for the research proposal</strong></summary>
+<strong>Elements for the research proposal</strong>
 -	Title and Abstract (150–250 words; problem, approach, expected impact).
 -	Problem Statement and Research Questions: Start with big picture, context, and significance; narrow down with specific problems and questions; discuss the reasons behind; and formulate a solid research question or a few dependent research questions.
 -	Literature Review: Focused synthesis, not a list; identify gaps and how your work addresses them.
@@ -115,7 +115,6 @@ How it works
 -	Review cadence: Baseline at project start; quick check monthly; re-baseline after major scope changes.
 
 <summary><strong>Work Tracker</strong></summary>
-
 To keep track your work with fine-grained task history and reduce meeting time spent on recall, supports accountability and consistent actions, each of you should keep a work tracker and shall with me. It will help you and me keep track of the streams of work, what we discussed, what the actions and results, which tasks are completed, and which are ongoing.
 How it works
 -	Structure (columns/fields):
@@ -128,7 +127,6 @@ How it works
 -	Review cadence: weekly/bi-weekly or as work status changes; ensure updates before meetings.
 
 <summary><strong>CV Exercise</strong></summary>
-CV Exercise
 This exercise helps you design what you would like your CV looks when you finish your programme. Specifically, it aligns publications, teaching/service, skills, and awards/fellowships to a coherent career narrative.
 How it works:
 -	Target CV (Future-State): An “aspirational CV” dated at programme end, with:
@@ -168,7 +166,6 @@ How it works:
 
 <details>
 <summary><strong>Data Management and Security</strong></summary>
-
 -	Storage locations:
   -	Secure institutional servers for identifiable data (if applicable) following NUS IRB/ethics rules.
   -	Dropbox/One Drive (shared team drive) for documents, non-identifiable datasets, and project management.
