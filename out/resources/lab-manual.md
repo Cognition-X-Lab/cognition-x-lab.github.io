@@ -4,7 +4,7 @@
 
 ---
 
-<summary><strong>Overview</strong> (click to expand)</summary>
+<summary><strong>Overview</strong></summary>
 
 The CognitionX Lab is a cross-disciplinary research lab focused on data and digitalisation-driven project cognition and system resilience for sustainable infrastructure and buildings in the built environment.
 
@@ -21,26 +21,26 @@ It looks like you recently joined the Cognition X Lab in the Department of the B
 When you join the lab, you’re expected to read this manual . You’re also highly encouraged to read it while deciding if you want to join the lab in the first place. You should always feel free to talk to Jinying to clarify anything in the lab manual and let her know if she isn’t following through on some of her promises! This lab manual is intended to be a starting point for a positive mentor-mentee and lab experience — but, ultimately, positive experiences will also require active investment in, and refinement of, our one-on-one interactions over time.
 
 First of all, I would like to let you know the kind of professor I want to be:
-	Work hard, but appreciate work-life balance.
-	Lead by example.
-	Never pretend to have all the answers, open to learning from my students and colleagues. 
-	Give credits to others as they deserve.
-	Identify and respect each student’s interests and strengths.
-	Provide clear instructions, guidance, and rules, as well as individualised support and impartial advice.
-	Help others to build their network.
-	Show passion for helping with scientific problems as well as non-scientific ones.
-	Be empathetic, understand other people's concerns without making them feel embarrassed and inadequate. 
+- Work hard, but appreciate work-life balance.
+- Lead by example.
+- Never pretend to have all the answers, open to learning from my students and colleagues. 
+- Give credits to others as they deserve.
+- Identify and respect each student’s interests and strengths.
+- Provide clear instructions, guidance, and rules, as well as individualised support and impartial advice.
+- Help others to build their network.
+- Show passion for helping with scientific problems as well as non-scientific ones.
+- Be empathetic, understand other people's concerns without making them feel embarrassed and inadequate. 
 
 
 <details>
 <summary><strong>	Mission, Scope, and Core Values</strong></summary>
 
-•	Mission: Design, build, and evaluate data-centric cognitive systems (the “project brain”) that perceive, learn, and actuate in complex project and infrastructure environments to improve efficiency, safety, sustainability, and resilience.
-•	Scope: Infrastructure projects (roads, coastal, utilities) and buildings; applications include digital twins, IoT-driven monitoring, project cognition, lean delivery, and sustainability assessment.
-•	Core values:
-o	Innovation: Invent and rigorously test novel methods and systems.
-o	Collaboration: Work across disciplines, collaborate with team members, other groups, and industry/government partners with respect and open mind and open communication.
-o	Excellence: Hold ourselves to high standards of rigor, integrity, and impact with professionalism.
+- Mission: Design, build, and evaluate data-centric cognitive systems (the “project brain”) that perceive, learn, and actuate in complex project and infrastructure environments to improve efficiency, safety, sustainability, and resilience.
+- Scope: Infrastructure projects (roads, coastal, utilities) and buildings; applications include digital twins, IoT-driven monitoring, project cognition, lean delivery, and sustainability assessment.
+- Core values:
+ - Innovation: Invent and rigorously test novel methods and systems.
+ - Collaboration: Work across disciplines, collaborate with team members, other groups, and industry/government partners with respect and open mind and open communication.
+ - Excellence: Hold ourselves to high standards of rigor, integrity, and impact with professionalism.
 We respect Critical Thinking, Creative Thinking, Systems Thinking, and also make our ideas happening.
 We ask the MOST Important Research Questions even they are challenging!
 
@@ -154,7 +154,7 @@ o	Industry/Agency Engagement: Collaborations, internships, pilots, policy briefs
 </details>
 
 <details>
-<summary><strong>6.	Research Integrity and Open Science</strong></summary>
+<summary><strong>Research Integrity and Open Science</strong></summary>
 
 •	Reproducibility: Use version control (Git/GitHub), maintain READMEs, and automate pipelines (scripts/notebooks).
 •	Pre-analysis plans (where applicable): Register on OSF/AsPredicted; at minimum maintain internal pre-analysis documents.
@@ -163,11 +163,6 @@ o	Industry/Agency Engagement: Collaborations, internships, pilots, policy briefs
 o	No honorary authorship. All authors must contribute and approve final manuscript.
 o	Authorship order discussed early and revisited if roles change.
 •	Conflicts of interest: Disclose in papers and proposals; follow NUS policies.
-
-
-<a href="./lab-manual.pdf#page=40" target="_blank" rel="noopener">Open Lab Manual (page 40)</a>
-
-<iframe src="./lab-manual.pdf#page=40" width="100%" height="480" title="Lab Manual - Troubleshooting"></iframe>
 
 </details>
 
@@ -190,9 +185,126 @@ o	Project_Name
 •	IRB/Ethics: Before human subjects or sensitive data collection, obtain required approvals. [PI to specify NUS/DBE IRB contacts and SOPs]
 •	Data sharing: Follow funder/journal requirements; anonymize and license appropriately.
 
+</details>
+
+<details>
+<summary><strong>Tools and Infrastructure</strong></summary>
+
+•	Version control: Git/GitHub (https://cognition-x-lab.github.io/).
+•	Writing: Overleaf (LaTeX) for manuscripts; NUS provides Overleaf Pro features.
+•	Documentation: Google Drive shared team drive; shared agenda docs for meetings.
+•	Communication: Slack (primary), Email (formal), Teams/Zoom (meetings).
+•	Computational resources: Home - NUSIT HPC
+•	Software standards:
+o	Python/R/Julia for analytics.
+o	Data schemas/ontologies (e.g., SensorML, IFC/BIM, CityGML) where appropriate.
 
 </details>
 
----
+<details>
+<summary><strong>Meetings and Communication</strong></summary>
+•	Lab meetings: Biweekly (subject to review when team grows); project updates (5-10 mins each for update, following template), tutorials, paper reviews, practice talks.
+•	One-on-one meetings: every two weeks, 30-45 minutes; agenda sent beforehand; track action items in Work Tracker.
+•	Project meetings: Weekly/biweekly; led by project lead; pre-circulate agenda and artifacts.
+•	Status updates: Concise notes before meetings (links to code, figures).
+•	Responsiveness: During working hours, aim to reply within a few hours to direct requests; asynchronous communication preferred over interruptions.
 
-If you'd like different section titles, exact page numbers, or a different embed behavior (for example using a JS PDF viewer or a collapsible-only view without embeds), tell me which changes to make and I will update this file.
+</details>
+
+<details>
+<summary><strong>Work Policy and Well-Being</strong></summary>
+•	Hybrid presence: Be in lab on campus at least 3 days/week, 10am–4pm, unless otherwise agreed. 
+•	Participate in bi-weekly group meeting is compulsory, preferably in-person, otherwise should join online, otherwise written records to the team lead.
+•	Respect working hours and boundaries; no expectation to respond outside working hours.
+•	Sick leave: Do not come to lab ill; update Slack status; reschedule participants/meetings.
+•	Vacation/time off: Plan in advance; note on lab calendar.
+•	Safety: Follow NUS safety protocols in lab and field deployments.
+
+</details>
+
+<details>
+<summary><strong>Publications, Talks, and Conferences</strong></summary>
+•	Publication quality: Prioritize rigor and impact; include reproducible code/data where feasible.
+•	Templates: Maintain figure style, accessible PDFs, and consistent branding.
+•	Practice talks: Present internally at least one week before external talks/posters.
+•	Conferences/travel: Funding subject to availability; be frugal; apply for travel grants; aim for 1 major conference per year per student/postdoc where feasible. 
+
+</details>
+
+<details>
+<summary><strong>PhD Program Milestones (NUS DBE Guidance)</strong></summary>
+•	Typical 4-year cadence (indicative; follow departmental rules and advisor guidance):
+o	Sem 1: 3 core modules; integrate with lab; start literature review; pose new, feasible questions within topic.
+o	Sem 2: 3 core modules; draft initial paper outline(s).
+o	Sem 3: Written QE; firm up thesis topic; first submission target.
+o	Sem 4: Oral QE; submit and ideally publish first journal article.
+o	Sem 6: Second journal article submitted/published.
+o	Sem 7: Begin thesis writing; composition of results chapters.
+o	Sem 8: Submit third article; submit thesis; thesis defence.
+•	Open science competency (required within first 2 semesters): Able to write in Overleaf and publish a GitHub research compendium.
+
+</details>
+
+<details>
+<summary><strong>Onboarding and Offboarding</strong></summary>
+•	Onboarding checklist:
+o	Accounts: Slack, GitHub org, Overleaf, Google Drive team drive.
+o	Access: Lab spaces, equipment, data repositories, HPC (if applicable).
+o	Policies: Read lab manual; finish required training by NUS; IRB/ethics training.
+o	Project alignment: Agree scope, deliverables, timelines with PI/mentor.
+•	Offboarding checklist:
+o	Archive datasets and code; ensure documentation and READMEs are complete.
+o	Transfer ownership/access to lab repositories and Drive.
+o	Outline publication plan for any outstanding work; authorship agreed.
+
+</details>
+
+<details>
+<summary><strong>Funding, Remuneration, and Reporting</strong></summary>
+•	Funding sources: NUS grants, CDE internal funds, government/industry grants, philanthropic calls (e.g., NRF, MOE, CoT, PUB, CFI), etc.
+•	RA/TA and fellowship options: Follow NUS policies; Follow updates on website; PI will advise on opportunities.
+•	Annual reports: Contribute to funder reports (accomplishments, products, impacts).
+•	Budget expectations: Be frugal; equipment purchases require PI approval.
+
+</details>
+
+<details>
+<summary><strong>Use of AI and Computational Ethics</strong></summary>
+•	Allowed and encouraged for productivity (coding, writing, data analysis) with human-in-the-loop oversight.
+•	Never use AI blindly; understand models and data; avoid hallucinated content.
+•	Declare AI usage in manuscripts/proposals where appropriate:
+o	“Declaration of AI usage”: Tool(s), how used, rationale.
+•	Data privacy: Do not upload sensitive data/code to public AI tools; follow IRB/data governance.
+
+</details>
+
+<details>
+<summary><strong>Compliance, Ethics, and Safety</strong></summary>
+•	IRB/Ethics: Obtain approvals for any human-subjects or sensitive data.
+•	Field deployments: Risk assessment, permits, PPE, data security plans. 
+•	Conflicts of interest/compliance training: Complete mandatory NUS modules.
+
+
+</details>
+
+<details>
+<summary><strong>Lab Space, Equipment, and Access</strong></summary>
+•	Lab rooms and storage: SDE 2 – MEZZ 1
+•	Access: Keycards/permissions via department admin after safety training; respect shared spaces.
+
+</details>
+
+<details>
+<summary><strong>Branding and External Visibility</strong></summary>
+•	Lab name and logo: Cognition X Lab; brand assets repository: https://cognition-x-lab.github.io/ 
+ <img width="591" height="241" alt="image" src="https://github.com/user-attachments/assets/e9665061-dd11-41c6-8b61-71a7f2fe9969" />
+•	Website and social media: Maintain updated project pages; amplify publications and demos.
+•	Open science visibility: Public GitHub repos, OSF pages, preprints as appropriate.
+
+</details>
+
+<details>
+<summary><strong>Recruitment and Visitors</strong></summary>
+•	Recruitment process: Informal chats; portfolio/code review; alignment with lab culture and needs.
+•	Visitors: Define scope, deliverables, mentorship, and timeline; onboard to tools/policies.
+•	Diversity and inclusion: Seek diverse perspectives and backgrounds.
