@@ -564,6 +564,16 @@ export const publications: Publication[] = [
   },
 
   // -------------------- CONFERENCE PAPERS --------------------
+   {
+    id: 'c-22',
+    kind: 'conference',
+    year: 2026,
+    title:
+      'AI-Enabled Climate-Health Nexus Framework for Decision-Support in Sustainable Urban Green Infrastructure',
+    authors: ['Phoebe Xu', 'Jinying Xu', 'Jeff Clark', 'Ravi Shankar'],
+    venue: 'Proceedings of the 43rd International Symposium on Automation and Robotics in Construction (ISARC 2026))',
+    url: 'https://doi.org/10.22260/ISARC2026/0115',
+  },
   {
     id: 'c-21',
     kind: 'conference',
