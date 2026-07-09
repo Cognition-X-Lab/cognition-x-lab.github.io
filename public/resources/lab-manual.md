@@ -89,7 +89,7 @@ We ask the MOST Important Research Questions even they are challenging!
 </details>
 
 <details markdown="1">
-<summary><strong>Key documents</strong></summary>
+<summary><strong>Key Documents</strong></summary>
   
 ### Research Proposal
 When you write a research proposal for Postdoc Fellowship or PhD scholarships, bear in mind that you need to have a clear and significant research question backed by thorough literature review and theoretical and/or practical challenges. You need to have a detailed research plan with progressive research objectives, sensible research methodology, available data sources, data analysis methods, expected outcomes, contributions to knowledge (theoretical, methodological, practical) potential risks and mitigation plan, and a reasonable timeline. The research plan needs to be updated or adjusted during your research project, but to think it through first will help you have a plan to follow. Also, you need to have a roadmap of success and impact to measure your progress. I am always happy to discuss!
