@@ -2,19 +2,18 @@
 
 <summary><strong>Overview</strong></summary>
 
-The CognitionX Lab is a cross-disciplinary research lab focused on data and digitalisation-driven project cognition and system resilience for sustainable infrastructure and buildings in the built e[...]
+The CognitionX Lab is a cross-disciplinary research lab focused on data and digitalisation-driven project cognition and system resilience for sustainable infrastructure and buildings in the built environment.
 
 <img width="940" height="133" alt="image" src="https://github.com/user-attachments/assets/51384a9a-4d48-4b52-b38b-3ef748a10153" />
 
 Lab website: https://cognition-x-lab.github.io/  
 Lab Location: SDE2-MEZZ1, Department of the Built Environment (DBE), College of Design and Engineering (CDE), NUS. 
 
-
 <details>
 <summary><strong>Welcome</strong></summary>
-It looks like you recently joined the Cognition X Lab in the Department of the Built Environment at National University of Singapore. Welcome! We’re really glad to have you here and will do what[...]
+It looks like you recently joined the Cognition X Lab in the Department of the Built Environment at National University of Singapore. Welcome! We’re really glad to have you here and will do what we can to make your time in the lab amazing. We hope you’ll learn a lot about data science, digital technologies, systems engineering, and built environment sustainability, develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
 
-When you join the lab, you’re expected to read this manual . You’re also highly encouraged to read it while deciding if you want to join the lab in the first place. You should always feel free[...]
+When you join the lab, you’re expected to read this manual . You’re also highly encouraged to read it while deciding if you want to join the lab in the first place. You should always feel free to talk to Jinying to clarify anything in the lab manual and let her know if she isn’t following through on some of her promises! This lab manual is intended to be a starting point for a positive mentor-mentee and lab experience — but, ultimately, positive experiences will also require active investment in, and refinement of, our one-on-one interactions over time.
 
 First of all, I would like to let you know the kind of professor I want to be:
 - Work hard, but appreciate work-life balance.
@@ -29,16 +28,14 @@ First of all, I would like to let you know the kind of professor I want to be:
 
 <details>
 <summary><strong>	Mission, Scope, and Core Values</strong></summary>
-
-- Mission: Design, build, and evaluate data-centric cognitive systems (the “project brain”) that perceive, learn, and actuate in complex project and infrastructure environments to improve effi[...]
-- Scope: Infrastructure projects (roads, coastal, utilities) and buildings; applications include digital twins, IoT-driven monitoring, project cognition, lean delivery, and sustainability assessme[...]
+- Mission: Design, build, and evaluate data-centric cognitive systems (the “project brain”) that perceive, learn, and actuate in complex project and infrastructure environments to improve efficiency, safety, sustainability, and resilience.
+- Scope: Infrastructure projects (roads, coastal, utilities) and buildings; applications include digital twins, IoT-driven monitoring, project cognition, lean delivery, and sustainability assessment.
 - Core values:
   - Innovation: Invent and rigorously test novel methods and systems.
   - Collaboration: Work across disciplines, collaborate with team members, other groups, and industry/government partners with respect and open mind and open communication.
   - Excellence: Hold ourselves to high standards of rigor, integrity, and impact with professionalism.
 We respect Critical Thinking, Creative Thinking, Systems Thinking, and also make our ideas happening.
 We ask the MOST Important Research Questions even they are challenging!
-
 
 <details>
 
@@ -82,13 +79,12 @@ We ask the MOST Important Research Questions even they are challenging!
 <details>
   
 <summary><strong>Key documents</strong></summary>
-
 <summary><strong>Research Proposal</strong></summary>
-When you write a research proposal for Postdoc Fellowship or PhD scholarships, bear in mind that you need to have a clear and significant research question backed by thorough literature review and[...]
+When you write a research proposal for Postdoc Fellowship or PhD scholarships, bear in mind that you need to have a clear and significant research question backed by thorough literature review and theoretical and/or practical challenges. You need to have a detailed research plan with progressive research objectives, sensible research methodology, available data sources, data analysis methods, expected outcomes, contributions to knowledge (theoretical, methodological, practical) potential risks and mitigation plan, and a reasonable timeline. The research plan needs to be updated or adjusted during your research project, but to think it through first will help you have a plan to follow. Also, you need to have a roadmap of success and impact to measure your progress. I am always happy to discuss!
 
 <strong>Elements for the research proposal</strong>
 -	Title and Abstract (150–250 words; problem, approach, expected impact).
--	Problem Statement and Research Questions: Start with big picture, context, and significance; narrow down with specific problems and questions; discuss the reasons behind; and formulate a solid r[...]
+-	Problem Statement and Research Questions: Start with big picture, context, and significance; narrow down with specific problems and questions; discuss the reasons behind; and formulate a solid research question or a few dependent research questions.
 -	Literature Review: Focused synthesis, not a list; identify gaps and how your work addresses them.
 -	Theoretical/Conceptual Framework: Explicit constructs, hypotheses (if relevant), or propositions.
 -	Methodology: Study design(s), data pipeline, instruments/sensors/models, validation strategy, uncertainty analysis, ethics/IRB if applicable.
@@ -101,15 +97,14 @@ When you write a research proposal for Postdoc Fellowship or PhD scholarships, b
 -	Reproducibility: Code/data artifact plan, version control, licensing, preregistration if relevant.
 
 <summary><strong>Project Gantt Chart</strong></summary>
-
-In line with your research plan, make a project Gantt chart with the key work stages/ packages and milestones, keep track and monitor your process against your plan. If there is a major change ne[...]
+In line with your research plan, make a project Gantt chart with the key work stages/ packages and milestones, keep track and monitor your process against your plan. If there is a major change needed, update with a new version.
 How it works
 -	Work Packages (WPs): 3–8 coherent WPs (e.g., WP1 Literature & Scoping; WP2 Methods/Models; WP3 Data collection; WP4 Field/Pilot; WP5 Data Analysis/Validation; WP6 Writing & Dissemination).
 -	Milestones: Key stages and deliverables (e.g., literature review finished, IRB approval, dataset v1, model v1/v2, pilot complete, paper submissions).
 -	Review cadence: Baseline at project start; quick check monthly; re-baseline after major scope changes.
 
 <summary><strong>Work Tracker</strong></summary>
-To keep track your work with fine-grained task history and reduce meeting time spent on recall, supports accountability and consistent actions, each of you should keep a work tracker and shall wi[...]
+To keep track your work with fine-grained task history and reduce meeting time spent on recall, supports accountability and consistent actions, each of you should keep a work tracker and shall with me. It will help you and me keep track of the streams of work, what we discussed, what the actions and results, which tasks are completed, and which are ongoing.
 
 How it works
 -	Structure (columns/fields):
@@ -122,7 +117,7 @@ How it works
 -	Review cadence: weekly/bi-weekly or as work status changes; ensure updates before meetings.
 
 <summary><strong>CV Exercise</strong></summary>
-This exercise helps you design what you would like your CV looks when you finish your programme. Specifically, it aligns publications, teaching/service, skills, and awards/fellowships to a cohere[...]
+This exercise helps you design what you would like your CV looks when you finish your programme. Specifically, it aligns publications, teaching/service, skills, and awards/fellowships to a coherent career narrative.
 
 How it works:
 -	Target CV (Future-State): An “aspirational CV” dated at programme end, with:
@@ -140,7 +135,6 @@ How it works:
 
 <details>
 <summary><strong>Code of Conduct and Inclusion</strong></summary>
-
 - Harassment-free environment; zero tolerance for discrimination or microaggressions.
 -	Professional behaviour in labs, meetings, fieldwork, and online channels.
 -	Confidential channels for concerns: [PI to specify departmental contact], DBE Chair/Graduate Office, NUS reporting pathways.
@@ -150,7 +144,6 @@ How it works:
 
 <details>
 <summary><strong>Research Integrity and Open Science</strong></summary>
-
 -	Reproducibility: Use version control (Git/GitHub), maintain READMEs, and automate pipelines (scripts/notebooks).
 -	Pre-analysis plans (where applicable): Register on OSF/AsPredicted; at minimum maintain internal pre-analysis documents.
 -	Data/code release: Aim to share code/data (de-identified or synthetic) with publications; use lab organization GitHub and appropriate licenses.
@@ -183,7 +176,6 @@ How it works:
 
 <details>
 <summary><strong>Tools and Infrastructure</strong></summary>
-
 -	Version control: Git/GitHub (https://cognition-x-lab.github.io/).
 -	Writing: Overleaf (LaTeX) for manuscripts; NUS provides Overleaf Pro features.
 -	Documentation: Google Drive shared team drive; shared agenda docs for meetings.
@@ -302,4 +294,3 @@ How it works:
 -	Recruitment process: Informal chats; portfolio/code review; alignment with lab culture and needs.
 -	Visitors: Define scope, deliverables, mentorship, and timeline; onboard to tools/policies.
 -	Diversity and inclusion: Seek diverse perspectives and backgrounds.
-
