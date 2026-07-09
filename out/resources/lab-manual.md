@@ -141,32 +141,29 @@ o	Industry/Agency Engagement: Collaborations, internships, pilots, policy briefs
 •	Quarterly Plan: 2–3 outcomes per quarter that build toward the target CV (tie to Gantt milestones).
 •	Narrative: 1–2 paragraph personal “positioning statement” that ties your body of work to a distinct niche.
 •	Review cadence: Initial within first 6–8 weeks; update at semester boundary; use in annual review.
-</details>
+
 
 <details>
-<a href="./lab-manual.pdf#page=15" target="_blank" rel="noopener">Open Lab Manual (page 15)</a>
-
-<iframe src="./lab-manual.pdf#page=15" width="100%" height="480" title="Lab Manual - Procedures"></iframe>
-
-</5.	Code of Conduct and Inclusion>
-
-<summary><strong>Data Recording & Analysis</strong></summary>
+<summary><strong>Code of Conduct and Inclusion</strong></summary>
 
 •	Harassment-free environment; zero tolerance for discrimination or microaggressions.
 •	Professional behaviour in labs, meetings, fieldwork, and online channels.
 •	Confidential channels for concerns: [PI to specify departmental contact], DBE Chair/Graduate Office, NUS reporting pathways.
 •	Psychological safety: Speak up; ideas and concerns are welcomed.
 
-<a href="./lab-manual.pdf#page=28" target="_blank" rel="noopener">Open Lab Manual (page 28)</a>
-
-<iframe src="./lab-manual.pdf#page=28" width="100%" height="480" title="Lab Manual - Data"></iframe>
-
 </details>
 
 <details>
-<summary><strong>Troubleshooting</strong></summary>
+<summary><strong>6.	Research Integrity and Open Science</strong></summary>
 
-Common problems and recommended fixes.
+•	Reproducibility: Use version control (Git/GitHub), maintain READMEs, and automate pipelines (scripts/notebooks).
+•	Pre-analysis plans (where applicable): Register on OSF/AsPredicted; at minimum maintain internal pre-analysis documents.
+•	Data/code release: Aim to share code/data (de-identified or synthetic) with publications; use lab organization GitHub and appropriate licenses.
+•	Authorship (CRediT taxonomy):
+o	No honorary authorship. All authors must contribute and approve final manuscript.
+o	Authorship order discussed early and revisited if roles change.
+•	Conflicts of interest: Disclose in papers and proposals; follow NUS policies.
+
 
 <a href="./lab-manual.pdf#page=40" target="_blank" rel="noopener">Open Lab Manual (page 40)</a>
 
@@ -175,13 +172,24 @@ Common problems and recommended fixes.
 </details>
 
 <details>
-<summary><strong>Appendices & References</strong></summary>
+<summary><strong>Data Management and Security</strong></summary>
 
-Supplementary materials, forms, and licensing.
+•	Storage locations:
+o	Secure institutional servers for identifiable data (if applicable) following NUS IRB/ethics rules.
+o	Dropbox/One Drive (shared team drive) for documents, non-identifiable datasets, and project management.
+o	GitHub for code and research compendia (no raw sensitive data).
+•	Folder structure (recommended):
+o	Project_Name
+	01_RawData (original datasets; de-identified where possible)
+	02_Models (digital twin/BIM/GIS assets)
+	03_Code (src, scripts, notebooks; with README)
+	04_Analysis (reports, visualizations)
+	05_Documentation (meeting notes, protocols)
+	06_Outputs (papers, posters, presentations)
+•	Backups: Use institutional backups and cloud redundancy; never store sole copies locally.
+•	IRB/Ethics: Before human subjects or sensitive data collection, obtain required approvals. [PI to specify NUS/DBE IRB contacts and SOPs]
+•	Data sharing: Follow funder/journal requirements; anonymize and license appropriately.
 
-<a href="./lab-manual.pdf#page=50" target="_blank" rel="noopener">Open Lab Manual (page 50)</a>
-
-<iframe src="./lab-manual.pdf#page=50" width="100%" height="480" title="Lab Manual - Appendices"></iframe>
 
 </details>
 
