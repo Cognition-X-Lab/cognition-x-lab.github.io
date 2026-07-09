@@ -4,7 +4,7 @@
 
 ---
 
-<summary><strong>Overview</strong> (click to expand)</summary>
+<summary><strong>Overview</strong></summary>
 
 The CognitionX Lab is a cross-disciplinary research lab focused on data and digitalisation-driven project cognition and system resilience for sustainable infrastructure and buildings in the built environment.
 
@@ -21,26 +21,26 @@ It looks like you recently joined the Cognition X Lab in the Department of the B
 When you join the lab, you’re expected to read this manual . You’re also highly encouraged to read it while deciding if you want to join the lab in the first place. You should always feel free to talk to Jinying to clarify anything in the lab manual and let her know if she isn’t following through on some of her promises! This lab manual is intended to be a starting point for a positive mentor-mentee and lab experience — but, ultimately, positive experiences will also require active investment in, and refinement of, our one-on-one interactions over time.
 
 First of all, I would like to let you know the kind of professor I want to be:
-	Work hard, but appreciate work-life balance.
-	Lead by example.
-	Never pretend to have all the answers, open to learning from my students and colleagues. 
-	Give credits to others as they deserve.
-	Identify and respect each student’s interests and strengths.
-	Provide clear instructions, guidance, and rules, as well as individualised support and impartial advice.
-	Help others to build their network.
-	Show passion for helping with scientific problems as well as non-scientific ones.
-	Be empathetic, understand other people's concerns without making them feel embarrassed and inadequate. 
+- Work hard, but appreciate work-life balance.
+- Lead by example.
+- Never pretend to have all the answers, open to learning from my students and colleagues. 
+- Give credits to others as they deserve.
+- Identify and respect each student’s interests and strengths.
+- Provide clear instructions, guidance, and rules, as well as individualised support and impartial advice.
+- Help others to build their network.
+- Show passion for helping with scientific problems as well as non-scientific ones.
+- Be empathetic, understand other people's concerns without making them feel embarrassed and inadequate. 
 
 
 <details>
 <summary><strong>	Mission, Scope, and Core Values</strong></summary>
 
-•	Mission: Design, build, and evaluate data-centric cognitive systems (the “project brain”) that perceive, learn, and actuate in complex project and infrastructure environments to improve efficiency, safety, sustainability, and resilience.
-•	Scope: Infrastructure projects (roads, coastal, utilities) and buildings; applications include digital twins, IoT-driven monitoring, project cognition, lean delivery, and sustainability assessment.
-•	Core values:
-o	Innovation: Invent and rigorously test novel methods and systems.
-o	Collaboration: Work across disciplines, collaborate with team members, other groups, and industry/government partners with respect and open mind and open communication.
-o	Excellence: Hold ourselves to high standards of rigor, integrity, and impact with professionalism.
+- Mission: Design, build, and evaluate data-centric cognitive systems (the “project brain”) that perceive, learn, and actuate in complex project and infrastructure environments to improve efficiency, safety, sustainability, and resilience.
+- Scope: Infrastructure projects (roads, coastal, utilities) and buildings; applications include digital twins, IoT-driven monitoring, project cognition, lean delivery, and sustainability assessment.
+- Core values:
+ - Innovation: Invent and rigorously test novel methods and systems.
+ - Collaboration: Work across disciplines, collaborate with team members, other groups, and industry/government partners with respect and open mind and open communication.
+ - Excellence: Hold ourselves to high standards of rigor, integrity, and impact with professionalism.
 We respect Critical Thinking, Creative Thinking, Systems Thinking, and also make our ideas happening.
 We ask the MOST Important Research Questions even they are challenging!
 
