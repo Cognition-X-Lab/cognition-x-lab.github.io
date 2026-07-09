@@ -187,10 +187,23 @@ export const people: Person[] = [
     role: 'Visting Master Student',
     group: 'Masters',
     avatar: '/people/Dossiya.png',
-    bio: 'Dossiya is pursuing his MSc degree in Sustainable Engineering at Arizona State University. He is visiting us for three months funded by Mastercard Scholarship',
-    interests: ['Sustainability', 'Infrastructure'],
-    education: [],
+    bio: 'Dossiya is a Master of Science in Engineering (MSE) student in Sustainable Engineering at Arizona State University. He is visiting for three months, funded by the Mastercard Foundation Scholarship. His work focuses on applying mathematical and physics-based theories to smart infrastructure systems, emphasizing sustainable, resilient, and data-driven engineering solutions',
+    interests: ['Smart Infrastructure', 'Mathematical Modeling', 'Physics-Based Modeling for Infrastructure Systems', 'Data-Driven Engineering'],
+    education: [
+      {
+        degree: 'Bachelor of Physical Science in Renewable Energy and Energy Systems',
+        institution: 'Université d’Abomey Calavi, Bénin',
+        year: '2024'
+      },
+      {
+        degree: 'Diploma in electrical engineering ( DT )',
+        institution: 'Lycée Technique de Natitingou, Bénin',
+        year: '2019'
+      }
+    ],
     links: {
+      linkedin: 'https://www.linkedin.com/in/dossiya-dakou-/',
+      website: 'https://github.com/Dossiya-SE',
       email: 'dakou.dossiya@u.nus.edu',
     },
     intake: 'Summer 2026',
