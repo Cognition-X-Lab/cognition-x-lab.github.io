@@ -1,9 +1,5 @@
 # Cognition X Lab
 
-> Note: The PDF file is included as `lab-manual.pdf` in this directory. 
-
----
-
 <summary><strong>Overview</strong></summary>
 
 The CognitionX Lab is a cross-disciplinary research lab focused on data and digitalisation-driven project cognition and system resilience for sustainable infrastructure and buildings in the built environment.
