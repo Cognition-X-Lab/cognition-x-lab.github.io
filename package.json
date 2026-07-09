@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@content-collections/core": "^0.4.0",
-    "@content-collections/markdown": "^0.4.0",
+    "@content-collections/markdown": "latest",
     "@content-collections/next": "^0.4.0",
     "clsx": "2.1.1",
     "next": "^14.2.33",
