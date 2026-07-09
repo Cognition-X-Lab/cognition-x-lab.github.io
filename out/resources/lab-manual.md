@@ -15,8 +15,7 @@ Lab Location: SDE2-MEZZ1, Department of the Built Environment (DBE), College of 
 
 
 <details>
-<summary><strong>Introduction</strong></summary>
-</1.	Introduction>
+<summary><strong>Welcome</strong></summary>
 It looks like you recently joined the Cognition X Lab in the Department of the Built Environment at National University of Singapore. Welcome! We’re really glad to have you here and will do what we can to make your time in the lab amazing. We hope you’ll learn a lot about data science, digital technologies, systems engineering, and built environment sustainability, develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
 
 When you join the lab, you’re expected to read this manual . You’re also highly encouraged to read it while deciding if you want to join the lab in the first place. You should always feel free to talk to Jinying to clarify anything in the lab manual and let her know if she isn’t following through on some of her promises! This lab manual is intended to be a starting point for a positive mentor-mentee and lab experience — but, ultimately, positive experiences will also require active investment in, and refinement of, our one-on-one interactions over time.
@@ -49,9 +48,6 @@ We ask the MOST Important Research Questions even they are challenging!
 </details>
 
 <details>
-<a href="./lab-manual.pdf#page=3" target="_blank" rel="noopener">Open Lab Manual (page 3)</a>
-
-<iframe src="./lab-manual.pdf#page=3" width="100%" height="480" title="Lab Manual - Safety"></iframe>
 
 </Roles and Expectations  >
 
