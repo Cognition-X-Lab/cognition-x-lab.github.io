@@ -31,7 +31,6 @@ First of all, I would like to let you know the kind of professor I want to be:
 	Show passion for helping with scientific problems as well as non-scientific ones.
 	Be empathetic, understand other people's concerns without making them feel embarrassed and inadequate. 
 
-</details>
 
 <details>
 <summary><strong>	Mission, Scope, and Core Values</strong></summary>
@@ -45,7 +44,6 @@ o	Excellence: Hold ourselves to high standards of rigor, integrity, and impact w
 We respect Critical Thinking, Creative Thinking, Systems Thinking, and also make our ideas happening.
 We ask the MOST Important Research Questions even they are challenging!
 
-</details>
 
 <details>
 
@@ -89,7 +87,7 @@ Undergraduate Research Students
 
 
 <details>
-</Key documents>
+<summary><strong>Key documents</strong></summary>
 
 <summary><strong>Research Proposal</strong></summary>
 
