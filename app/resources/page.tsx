@@ -4,12 +4,7 @@ import { SectionTitle } from '@/components/SectionTitle'
 import { resources } from '@/lib/data'
 
 export default function ResourcesPage() {
-  const labManualUrl = '/resources/lab-manual.pdf'
-  const officeViewerUrl = `https://view.officeapps.live.com/op/embed.aspx?src=${encodeURIComponent(
-    typeof window !== 'undefined'
-      ? window.location.origin + labManualUrl
-      : 'https://yourdomain.com' + labManualUrl
-  )}`
+  const labManualUrl = '/resources/lab-manual.md'
 
   return (
     <div className="space-y-10">
