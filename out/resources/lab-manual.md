@@ -4,7 +4,6 @@
 
 ---
 
-<details>
 <summary><strong>Overview</strong> (click to expand)</summary>
 
 The CognitionX Lab is a cross-disciplinary research lab focused on data and digitalisation-driven project cognition and system resilience for sustainable infrastructure and buildings in the built environment.
@@ -14,13 +13,6 @@ The CognitionX Lab is a cross-disciplinary research lab focused on data and digi
 Lab website: https://cognition-x-lab.github.io/  
 Lab Location: SDE2-MEZZ1, Department of the Built Environment (DBE), College of Design and Engineering (CDE), NUS. 
 
-<!-- Open the PDF at the suggested page in a new tab -->
-<a href="./lab-manual.pdf#page=1" target="_blank" rel="noopener">Open Lab Manual (page 1)</a>
-
-<!-- Optional embedded viewer (works in most modern browsers). Remove if your site blocks embeds. -->
-<iframe src="./lab-manual.pdf#page=1" width="100%" height="480" title="Lab Manual - Overview"></iframe>
-
-</details>
 
 <details>
 <summary><strong>Introduction</strong></summary>
