@@ -181,17 +181,32 @@ export const people: Person[] = [
     intake: 'Fall 2025',
   },
   {
+    id: 'ms-3',
+    slug: 'Dossiya',
+    name: 'Dossiya Dakou',
+    role: 'Visting Master Student',
+    group: 'Masters',
+    avatar: '',
+    bio: 'Dossiya is pursuing his MSc degree in Sustainable Engineering at Arizona State University. He is visiting us for three months funded by Mastercard Scholarship',
+    interests: ['Sustainability', 'Infrastructure'],
+    education: [].
+    links: {
+      email: 'ruixuan-qi@u.nus.edu',
+    },
+    intake: 'Fall 2025',
+  }, 
+  {
     id: 'ug-1',
     slug: 'raquel-jardim',
     name: 'Raquel Jardim',
-    role: 'Visiting Undergraduate Summer Student',
+    role: 'Internship and Research Immersion in Singapore (IRIS)@NUS Student',
     group: 'Undergrad',
     avatar: '/people/Raquel.jpg',
     bio: 'Raquel is an Economics undergraduate student at Williams College. Her research focuses on Behavioral and Applied Microeconomics, with projects analyzing online content creation platforms as income insurance and the behavioral drivers of humanitarian giving. As a Research Intern at the National University of Singapore, she investigates the relationship between corporate carbon emissions and greenwashing.',
     interests: ['Behavioral Economics', 'Applied Econometrics', 'Digital Labor Markets', 'Environmental Economics', 'Economics of Risk'],
     education: [],
     links: {
-      email: 'raquel.jardim@u.nus.edu',
+      email: 'dakou.dossiya@u.nus.edu',
     },
     intake: 'Summer 2026',
   },
@@ -199,7 +214,7 @@ export const people: Person[] = [
     id: 'ug-2',
     slug: 'ahad-nardekar',
     name: 'Ahad Nardekar',
-    role: 'Visiting Undergraduate Summer Student',
+    role: 'Internship and Research Immersion in Singapore (IRIS)@NUS Student',
     group: 'Undergrad',
     avatar: '/people/Ahad.jpg',
     bio: 'Ahad is an undergraduate student at Indian Institute of Technology Delhi pursuing B.Tech in Civil Engineering. His research focuses on application of AI/ML models to Core Engineering Problems, with prior experience of working on projects such as Structural Analysis Engine, Hydrological Catchment Analysis and Dynamic Analysis of Cracking Patterns in Failures of Structures. As a Research Intern at National University of Singapore, in the Department of Built Environment, he is working on the Forensic Accounting of Corporate Sustainability Pledges using LLMs.',
@@ -1138,6 +1153,7 @@ export const news: NewsItem[] = [
   { id: 'n9', date: '6 Apr 2026', title: '🎉 Welcome Dr. Christoph P. Sydora who joins Cognition X Lab,  NUS Department of the Built Enviornment as a Research Fellow.'},
   { id: 'n10', date: '13 Apr 2026', title: '📢 Cognition X Lab had a sharing session with the Reasonable Design Lab led by Prof Pieter Herthogs from Department of Architecture, NUS'},
   { id: 'n11', date: '26 May 2026', title: '🎉 Welcome Ahad Nardekar and Raquel Jardim who are joining Cognition X Lab,  NUS Department of the Built Enviornment as Undergraduate Summer Students.'},
+  { id: 'n12', date: '1 July 2026', title: '🎉 Welcome Dossiya Dakou who is visiting Cognition X Lab,  NUS Department of the Built Enviornment, funded by Mastercard Scholarship.'},
 ]
 export const map = {
   lat: 1.2966,
