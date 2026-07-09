@@ -189,11 +189,11 @@ export const people: Person[] = [
     avatar: '',
     bio: 'Dossiya is pursuing his MSc degree in Sustainable Engineering at Arizona State University. He is visiting us for three months funded by Mastercard Scholarship',
     interests: ['Sustainability', 'Infrastructure'],
-    education: [].
+    education: [],
     links: {
-      email: 'ruixuan-qi@u.nus.edu',
+      email: 'dakou.dossiya@u.nus.edu',
     },
-    intake: 'Fall 2025',
+    intake: 'Summer 2026',
   }, 
   {
     id: 'ug-1',
