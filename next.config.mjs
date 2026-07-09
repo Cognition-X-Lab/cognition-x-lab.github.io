@@ -1,3 +1,5 @@
+import { withContentCollections } from '@content-collections/next';
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
@@ -9,4 +11,5 @@ const nextConfig = {
   // basePath: '/repository-name', 
 };
 
-export default nextConfig;
+export default withContentCollections(nextConfig);
+
