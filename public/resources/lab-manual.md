@@ -301,6 +301,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 <details markdown="1">
 <summary><strong>Lab Space, Equipment, and Access</strong></summary>
+  
   -	Lab rooms and storage: SDE 2 – MEZZ 1
   -	Access: Keycards/permissions via department admin after safety training; respect shared spaces.
 
