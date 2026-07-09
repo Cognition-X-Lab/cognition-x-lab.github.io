@@ -9,7 +9,7 @@ The CognitionX Lab is a cross-disciplinary research lab focused on data and digi
 Lab website: https://cognition-x-lab.github.io/  
 Lab Location: SDE2-MEZZ1, Department of the Built Environment (DBE), College of Design and Engineering (CDE), NUS. 
 
-<details>
+<details markdown="1">
 <summary><strong>Welcome</strong></summary>
 It looks like you recently joined the Cognition X Lab in the Department of the Built Environment at National University of Singapore. Welcome! We’re really glad to have you here and will do what we can to make your time in the lab amazing. We hope you’ll learn a lot about data science, digital technologies, systems engineering, and built environment sustainability, develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
 
@@ -28,7 +28,7 @@ First of all, I would like to let you know the kind of professor I want to be:
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>	Mission, Scope, and Core Values</strong></summary>
 - Mission: Design, build, and evaluate data-centric cognitive systems (the “project brain”) that perceive, learn, and actuate in complex project and infrastructure environments to improve efficiency, safety, sustainability, and resilience.
 - Scope: Infrastructure projects (roads, coastal, utilities) and buildings; applications include digital twins, IoT-driven monitoring, project cognition, lean delivery, and sustainability assessment.
@@ -41,7 +41,7 @@ We ask the MOST Important Research Questions even they are challenging!
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Roles and Expectations</strong></summary>
   
 ### Everyone in the lab
@@ -88,7 +88,7 @@ We ask the MOST Important Research Questions even they are challenging!
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Key documents</strong></summary>
   
 ### Research Proposal
@@ -128,7 +128,7 @@ To keep track your work with fine-grained task history and reduce meeting time s
   -	Links (PRs, commits, notebooks, data)
 -	Review cadence: weekly/bi-weekly or as work status changes; ensure updates before meetings.
 
-### CV Exercise</strong></summary>
+### CV Exercise
 This exercise helps you design what you would like your CV looks when you finish your programme. Specifically, it aligns publications, teaching/service, skills, and awards/fellowships to a coherent career narrative.
 
 **How it works**
@@ -145,7 +145,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Code of Conduct and Inclusion</strong></summary>
 - Harassment-free environment; zero tolerance for discrimination or microaggressions.
 -	Professional behaviour in labs, meetings, fieldwork, and online channels.
@@ -154,7 +154,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Research Integrity and Open Science</strong></summary>
 -	Reproducibility: Use version control (Git/GitHub), maintain READMEs, and automate pipelines (scripts/notebooks).
 -	Pre-analysis plans (where applicable): Register on OSF/AsPredicted; at minimum maintain internal pre-analysis documents.
@@ -166,7 +166,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Data Management and Security</strong></summary>
 -	Storage locations:
   -	Secure institutional servers for identifiable data (if applicable) following NUS IRB/ethics rules.
@@ -186,7 +186,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Tools and Infrastructure</strong></summary>
 -	Version control: Git/GitHub (https://cognition-x-lab.github.io/).
 -	Writing: Overleaf (LaTeX) for manuscripts; NUS provides Overleaf Pro features.
@@ -199,7 +199,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Meetings and Communication</strong></summary>
 -	Lab meetings: Biweekly (subject to review when team grows); project updates (5-10 mins each for update, following template), tutorials, paper reviews, practice talks.
 -	One-on-one meetings: every two weeks, 30-45 minutes; agenda sent beforehand; track action items in Work Tracker.
@@ -220,7 +220,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Publications, Talks, and Conferences</strong></summary>
 -	Publication quality: Prioritize rigor and impact; include reproducible code/data where feasible.
 -	Templates: Maintain figure style, accessible PDFs, and consistent branding.
@@ -229,7 +229,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>PhD Program Milestones (NUS DBE Guidance)</strong></summary>
 -	Typical 4-year cadence (indicative; follow departmental rules and advisor guidance):
   -	Sem 1: 3 core modules; integrate with lab; start literature review; pose new, feasible questions within topic.
@@ -243,7 +243,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Onboarding and Offboarding</strong></summary>
 -	Onboarding checklist:
   -	Accounts: Slack, GitHub org, Overleaf, Google Drive team drive.
@@ -257,7 +257,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Funding, Remuneration, and Reporting</strong></summary>
 -	Funding sources: NUS grants, CDE internal funds, government/industry grants, philanthropic calls (e.g., NRF, MOE, CoT, PUB, CFI), etc.
 -	RA/TA and fellowship options: Follow NUS policies; Follow updates on website; PI will advise on opportunities.
@@ -266,7 +266,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Use of AI and Computational Ethics</strong></summary>
 -	Allowed and encouraged for productivity (coding, writing, data analysis) with human-in-the-loop oversight.
 -	Never use AI blindly; understand models and data; avoid hallucinated content.
@@ -276,7 +276,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Compliance, Ethics, and Safety</strong></summary>
 -	IRB/Ethics: Obtain approvals for any human-subjects or sensitive data.
 -	Field deployments: Risk assessment, permits, PPE, data security plans. 
@@ -291,7 +291,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Branding and External Visibility</strong></summary>
 -	Lab name and logo: Cognition X Lab; brand assets repository: https://cognition-x-lab.github.io/ 
  <img width="591" height="241" alt="image" src="https://github.com/user-attachments/assets/e9665061-dd11-41c6-8b61-71a7f2fe9969" />
@@ -300,7 +300,7 @@ This exercise helps you design what you would like your CV looks when you finish
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Recruitment and Visitors</strong></summary>
 -	Recruitment process: Informal chats; portfolio/code review; alignment with lab culture and needs.
 -	Visitors: Define scope, deliverables, mentorship, and timeline; onboard to tools/policies.
