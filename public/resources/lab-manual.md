@@ -149,7 +149,7 @@ This exercise helps you design what you would like your CV looks when you finish
 <summary><strong>Code of Conduct and Inclusion</strong></summary>
 - Harassment-free environment; zero tolerance for discrimination or microaggressions.
 -	Professional behaviour in labs, meetings, fieldwork, and online channels.
--	Confidential channels for concerns: [PI to specify departmental contact], DBE Chair/Graduate Office, NUS reporting pathways.
+-	Confidential channels for concerns: DBE Chair/Graduate Office, NUS reporting pathways.
 -	Psychological safety: Speak up; ideas and concerns are welcomed.
 
 </details>
