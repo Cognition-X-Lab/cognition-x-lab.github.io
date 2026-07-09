@@ -237,13 +237,31 @@ export type Publication = {
 export const publications: Publication[] = [
   // -------------------- JOURNAL PAPERS --------------------
   {
+    id: 'j-33',
+    kind: 'journal',
+    year: 2026,
+    title: 'Analysis of Workflow Variability in Modular Integrated Construction Manufacturing Using Cooperative Game Theory',
+    authors: ['Zhongze Yang', 'Weisheng Lu', 'Liupengfei Wu', 'Jinying Xu'],
+    venue: 'Journal of Construction Engineering and Management, 152(8), 04026115',
+    url: 'https://doi.org/10.1061/JCEMD4.COENG-17200',
+  },
+  {
+    id: 'j-32',
+    kind: 'journal',
+    year: 2026,
+    title: 'Reducing or transferring emissions? Quantifying city-scale embodied carbon flows and emission responsibility in the modular construction supply chain',
+    authors: ['Xinping Wen', 'Wei Pan', 'Yue Teng', 'Daniel WM Chan', 'Jinying Xu'],
+    venue: 'Sustainable Cities and Society, 107470',
+    url: 'https://doi.org/10.1016/j.scs.2026.107470',
+  },
+  {
     id: 'j-31',
     kind: 'journal',
     year: 2025,
     title: 'Semantics-Based Connectivity Graph for Indoor Pathfinding Powered by Ifc-Graph',
     authors: ['Junxiang Zhu', 'Mun On Wong', 'Nicholas Nisbet', 'Jinying Xu', 'Tom Kelly', 'Sisi Zlatanova', 'Ioannis Brilakis'],
     venue: 'Automation in Construction, 171, 106019',
-    url: 'https://www.sciencedirect.com/science/article/pii/S0926580525000597',
+    url: 'https://doi.org/10.1016/j.autcon.2025.106019',
   },
   {
     id: 'j-30',
@@ -252,7 +270,7 @@ export const publications: Publication[] = [
     title: 'Carbon data and its requirements in infrastructure-related GHG standards',
     authors: ['Jinying XU*', 'Kristen MacAskill'],
     venue: 'Environmental Science & Policy, 162, 103935',
-    url: 'https://www.sciencedirect.com/science/article/pii/S1462901124002697',
+    url: 'https://doi.org/10.1016/j.envsci.2024.103935',
   },
   {
     id: 'j-29',
@@ -262,7 +280,7 @@ export const publications: Publication[] = [
       'Digital twins for engineering asset management: synthesis, analytical framework, and future directions',
     authors: ['Yongkui Li', 'Qinyue Wang', 'Xiyu Pan', 'Jian Zuo', 'Jinying XU', 'Yilong Han'],
     venue: 'Engineering, 41, 261–275',
-    url: 'https://www.sciencedirect.com/science/article/pii/S209580992400047X',
+    url: 'https://doi.org/10.1016/j.eng.2023.12.006',
   },
   {
     id: 'j-28',
@@ -547,14 +565,54 @@ export const publications: Publication[] = [
 
   // -------------------- CONFERENCE PAPERS --------------------
   {
+    id: 'c-21',
+    kind: 'conference',
+    year: 2026,
+    title:
+      'A Data Ontology for Integrated Resilience Assessment of Transportation Systems in Extreme Weather Events',
+    authors: ['Jinying Xu', 'Mukun Liu', 'Zizhe Han', 'Wei Bi', 'Nan Li', 'Kristen MacAskill'],
+    venue: 'International Conference on Computing in Civil Engineering 2026 (i3CE 2026)',
+    url: '',
+  },
+  {
+    id: 'c-20',
+    kind: 'conference',
+    year: 2026,
+    title:
+      'A multi-agent data-to-model workflow for make-ready assessment',
+    authors: ['Ruixuan Qi', 'Jinying Xu', 'Ruiyan Zheng'],
+    venue: 'Proceedings of the 34th Annual Conference of the International Group for Lean Construction (IGLC 34)',
+    url: 'https://doi.org/10.24928/2026/0266',
+  },
+  {
+    id: 'c-19',
+    kind: 'conference',
+    year: 2026,
+    title:
+      'A Synergized LLM-KG Framework for Domain Knowledge Cognition',
+    authors: ['Ruiyan Zheng', 'Jinying Xu'],
+    venue: 'Proceedings of the 43rd International Symposium on Automation and Robotics in Construction (ISARC 2026)',
+    url: 'https://doi.org/10.22260/ISARC2026/0259',
+  },
+  {
+    id: 'c-18',
+    kind: 'conference',
+    year: 2026,
+    title:
+      'Defining the Digital Road Manager-Public Consultation Response',
+    authors: ['Varun Kumar Reja', 'Jinying Xu', 'Zizhen Xu', 'Junxiang Zhu', 'Linjun Lu', 'Shirin Malihi', 'Yuandong Pan', 'Mengtian Yin', 'Abbas Solouki', 'Zhaojie Sun', 'Khashayar Kazemzadeh', 'Kai-Fung Chu', 'Yue Xie', 'Jie Liu', 'Judith Fauth'],
+    venue: 'Conference of European Directors of Roads (CEDR)',
+    url: 'https://doi.org/10.17863/CAM.131863',
+  },
+  {
     id: 'c-17',
     kind: 'conference',
     year: 2025,
     title:
       'How good are the best practices in carbon reduction? UK highway sector case studies',
     authors: ['Jinying XU', 'Kristen MacAskill'],
-    venue: 'ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction',
-    url: '',
+    venue: 'Proceedings of the 42nd International Symposium on Automation and Robotics in Construction (ISARC 2025)',
+    url: 'https://doi.org/10.22260/ISARC2025/0097',
   },
   {
     id: 'c-16',
