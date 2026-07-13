@@ -11,5 +11,5 @@ const nextConfig = {
   // basePath: '/repository-name', 
 };
 
-export default withContentCollections(nextConfig);
-
+//export default withContentCollections(nextConfig);
+export default nextConfig;
