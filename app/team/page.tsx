@@ -20,8 +20,16 @@ function intakeRank(intake?: string): number {
 
 export default function TeamPage() {
   const pi = people.find(p => p.group === 'PI')
-  const rest = people
-    .filter(p => p.group !== 'PI')
+  const current = people
+    .filter(p => p.current === 'Yes' && p.group !== 'PI')
+    .sort((a, b) => {
+      const gi = groupIndex(a.group) - groupIndex(b.group)
+      if (gi !== 0) return gi
+      return intakeRank(a.intake) - intakeRank(b.intake)
+    })
+    
+  const past = people
+    .filter(p => p.current === 'No' && p.group !== 'PI')
     .sort((a, b) => {
       const gi = groupIndex(a.group) - groupIndex(b.group)
       if (gi !== 0) return gi
@@ -40,7 +48,16 @@ export default function TeamPage() {
       <SectionTitle title="Team" subtitle="" />
       <section>
         <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {rest.map(p => (
+          {current.map(p => (
+            <TeamMemberCard key={p.id} person={p} />
+          ))}
+        </div>
+      </section>
+      
+      <SectionTitle title="Past Members" subtitle="" />
+      <section>
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          {past.map(p => (
             <TeamMemberCard key={p.id} person={p} />
           ))}
         </div>

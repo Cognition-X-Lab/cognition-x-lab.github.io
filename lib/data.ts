@@ -29,6 +29,7 @@ export type Person = {
   cvUrl?: string
   intake?: string
   joinDate?: string
+  current: 'Yes' | 'No'
 }
 
 export const people: Person[] = [
@@ -71,11 +72,12 @@ export const people: Person[] = [
     },
     cvUrl: '#',
     joinDate: 'Fall 2025',
+    current: 'Yes',
   },
   {
     id: 'postdoc-1',
     slug: 'christoph-Sydora',
-    name: 'Christoph P. Sydora',
+    name: 'Christoph Sydora',
     role: 'Research Fellow',
     group: 'Postdoc',
     avatar: '/people/Chris.png',
@@ -106,6 +108,7 @@ export const people: Person[] = [
       email: 'csydora@nus.edu.sg',
     },
     intake: 'Spring 2026',
+    current: 'Yes',
   },
   {
     id: 'phd-1',
@@ -135,6 +138,62 @@ export const people: Person[] = [
       email: 'zhengruiyan@u.nus.edu',
     },
     intake: 'Spring 2026',
+    current: 'Yes',
+  },
+  {
+    id: 'phd-2',
+    slug: 'malintha-fernando',
+    name: 'Malintha Fernando',
+    role: 'PhD student',
+    group: 'PhD',
+    avatar: '/people/Malintha.png',
+    bio: 'Malintha Fernando is a PhD student at National University of Singapore, researching cost-carbon optimisation in the built environment. Within this domain, his research focuses on the convergence of predictive maintenance in infrastructure buildings and novel technologies.',
+    interests: ['Cost-carbon Optimisation', 'Predictive Maintenance', 'Sustainable Construction'],
+    education: [
+      {
+        degree: 'BSc (Honours) in Quantity Surveying',
+        institution: 'University of Moratuwa, Sri Lanka',
+        year: '2025'
+      }
+    ],
+    links: {
+      scholar: 'https://scholar.google.com/citations?user=N9VKIzUAAAAJ&hl=en',
+      github: 'https://github.com/Malintha-Fernando',
+      linkedin: 'https://www.linkedin.com/in/malintha-fernando-711300a7/',
+      email: 'malintha.fernando@u.nus.edu',
+    },
+    intake: 'Fall 2026',
+    current: 'Yes',
+  },
+  {
+    id: 'phd-3',
+    slug: 'Xinyu-Li',
+    name: 'Xinyu Li',
+    role: 'PhD student',
+    group: 'PhD',
+    avatar: '/people/Xinyu.jpg',
+    bio: 'Xinyu is a PhD student interested in urban and infrastructure resilience under climate change. Her work involves geospatial data analysis, complex systems modelling, and AI applications for climate risk assessment.',
+    interests: ['Urban resilience', 'Geospatial AI', 'Complex systems'],
+    education: [
+      {
+        degree: 'Master of Urban Planning',
+        institution: 'Zhejiang University, China',
+        year: '2023-2026'
+      },
+      {
+        degree: 'Bachelor in Urban Planning',
+        institution: 'Zhejiang University, China',
+        year: '2018-2023'
+      }
+    ],
+    links: {
+      scholar: 'https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&authuser=1&gmla=AO4B3jvnu02ZhzxXlX6rSArltxyg25ZYz-7O4dbl2mgbKirigG5cRIKDONFRZLbBbwR4nrV1AjNuxJAaObPTL-ivdnw&user=9rkzLuoAAAAJ',
+      github: 'https://github.com/lili1001-xinyu',
+      linkedin: 'https://www.linkedin.com/in/xinyu-li-564553427/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bvy2OizzuT1CLVk9Uj%2FNtGw%3D%3D',
+      email: 'xinyu.lili@u.nus.edu',
+    },
+    intake: 'Fall 2026',
+    current: 'Yes',
   },
   {
     id: 'ms-1',
@@ -157,6 +216,7 @@ export const people: Person[] = [
       email: 'e1583222@u.nus.edu',
     },
     intake: 'Fall 2025',
+    current: 'Yes',
   },
   {
     id: 'ms-2',
@@ -179,12 +239,13 @@ export const people: Person[] = [
       email: 'ruixuan-qi@u.nus.edu',
     },
     intake: 'Fall 2025',
+    current: 'No',
   },
   {
     id: 'ms-3',
-    slug: 'Dossiya',
+    slug: 'dossiya-dakou',
     name: 'Dossiya Dakou',
-    role: 'Visting Master Student',
+    role: 'Visiting Master Student',
     group: 'Masters',
     avatar: '/people/Dossiya.png',
     bio: 'Dossiya is a Master of Science in Engineering (MSE) student in Sustainable Engineering at Arizona State University. He is visiting for three months, funded by the Mastercard Foundation Scholarship. His work focuses on applying mathematical and physics-based theories to smart infrastructure systems, emphasizing sustainable, resilient, and data-driven engineering solutions',
@@ -207,6 +268,7 @@ export const people: Person[] = [
       email: 'dakou.dossiya@u.nus.edu',
     },
     intake: 'Summer 2026',
+    current: 'Yes',
   }, 
   {
     id: 'ug-1',
@@ -222,6 +284,7 @@ export const people: Person[] = [
       email: 'dakou.dossiya@u.nus.edu',
     },
     intake: 'Summer 2026',
+    current: 'No',
   },
   {
     id: 'ug-2',
@@ -237,6 +300,7 @@ export const people: Person[] = [
       email: 'ahadnardekar@u.nus.edu',
     },
     intake: 'Summer 2026',
+    current: 'No',
   }
 ]
 
@@ -1162,11 +1226,12 @@ export const news: NewsItem[] = [
   { id: 'n5', date: '17 Dec 2025', title: '📢 Dr. Jinying Xu visted the Department of Architecture and Civil Engineering, City University of Hong Kong.' },
   { id: 'n6', date: '18 Dec 2025', title: '📢 Dr. Jinying Xu gave an invited talk "Digital technologies for intelligent carbon management" at the Department of Building and Real Estate, The Hong Kong Polytechnic University.' },
   { id: 'n7', date: '19 Dec 2025', title: '📢 Dr. Jinying Xu gave an invited seminar "Advancing carbon management with ontology-driven data collection" at the Frontier Forum on Smart Construction and Smart City Research at Huazhong University of Science and Technology.' },
-  { id: 'n8', date: '12 Jan 2026', title: '🎉 Welcome Mr. Ruiyan Zheng who joins Cognition X Lab, NUS Department of the Built Enviornment as a Research Engineer/PhD Student.' },
-  { id: 'n9', date: '6 Apr 2026', title: '🎉 Welcome Dr. Christoph P. Sydora who joins Cognition X Lab,  NUS Department of the Built Enviornment as a Research Fellow.'},
+  { id: 'n8', date: '12 Jan 2026', title: '🎉 Welcome Ruiyan Zheng who joins Cognition X Lab, NUS Department of the Built Enviornment as a Research Engineer/PhD Student.' },
+  { id: 'n9', date: '6 Apr 2026', title: '🎉 Welcome Dr. Christoph Sydora who joins Cognition X Lab,  NUS Department of the Built Enviornment as a Research Fellow.'},
   { id: 'n10', date: '13 Apr 2026', title: '📢 Cognition X Lab had a sharing session with the Reasonable Design Lab led by Prof Pieter Herthogs from Department of Architecture, NUS'},
   { id: 'n11', date: '26 May 2026', title: '🎉 Welcome Ahad Nardekar and Raquel Jardim who are joining Cognition X Lab,  NUS Department of the Built Enviornment as Undergraduate Summer Students.'},
   { id: 'n12', date: '1 July 2026', title: '🎉 Welcome Dossiya Dakou who is visiting Cognition X Lab,  NUS Department of the Built Enviornment, funded by Mastercard Scholarship.'},
+  { id: 'n13', date: '3 Aug 2026', title: '🎉 Welcome Xinyu Li and Malintha who are joining the Cognition X Lab, NUS Department of the Built Enviornment as PhD Students.'},
 ]
 export const map = {
   lat: 1.2966,
