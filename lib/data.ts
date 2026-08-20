@@ -135,6 +135,7 @@ export const people: Person[] = [
       scholar: 'https://scholar.google.com/citations?user=3SRDfx8AAAAJ&hl=en',
       github: 'https://github.com/RyanZ-O?tab=repositories',
       linkedin: 'https://www.linkedin.com/in/ruiyan-zheng-473807380/',
+      website: 'https://ryanz-o.github.io/',
       email: 'zhengruiyan@u.nus.edu',
     },
     intake: 'Spring 2026',
