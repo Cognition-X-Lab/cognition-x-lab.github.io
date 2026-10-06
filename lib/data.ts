@@ -1333,6 +1333,7 @@ export const news: NewsItem[] = [
   { id: 'n11', date: '26 May 2026', title: '🎉 Welcome Ahad Nardekar and Raquel Jardim who are joining Cognition X Lab,  NUS Department of the Built Enviornment as Undergraduate Summer Students.'},
   { id: 'n12', date: '1 July 2026', title: '🎉 Welcome Dossiya Dakou who is visiting Cognition X Lab,  NUS Department of the Built Enviornment, funded by Mastercard Scholarship.'},
   { id: 'n13', date: '3 Aug 2026', title: '🎉 Welcome Xinyu Li and Malintha who are joining the Cognition X Lab, NUS Department of the Built Enviornment as PhD Students.'},
+  { id: 'n14', date: '6 Aug 2026', title: '🎉 Welcome Felicia Anderson who is joining the Cognition X Lab, NUS Department of the Built Enviornment as visiting PhD Student.'},
 ]
 export const map = {
   lat: 1.2966,
