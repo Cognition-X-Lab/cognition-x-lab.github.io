@@ -161,6 +161,7 @@ export const people: Person[] = [
       scholar: 'https://scholar.google.com/citations?user=N9VKIzUAAAAJ&hl=en',
       github: 'https://github.com/Malintha-Fernando',
       linkedin: 'https://www.linkedin.com/in/malintha-fernando-711300a7/',
+      website: 'https://malintha-fernando.github.io/',
       email: 'malintha.fernando@u.nus.edu',
     },
     intake: 'Fall 2026',
