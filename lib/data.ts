@@ -1184,6 +1184,20 @@ export const researchOverview = {
   ]
 }
 
+/* ===== Prototypes ===== */
+export type Prototype = {
+  title: string
+  summary: string
+  Url?: string
+}
+export const prototypes: Prototype[] = [
+  {
+  title: 'Building Carbon Dashboard',
+  summary: 'A dashboard for visualizing carbon emissions in building projects on a Building Information Model.',
+  Url: 'https://carbon-dashboard-demo-production.up.railway.app/'
+  }
+]
+
 /* ===== About (group + NUS) ===== */
 export type About = {
   group: string

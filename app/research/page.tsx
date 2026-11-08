@@ -1,4 +1,4 @@
-import { researchOverview, projects } from '@/lib/data'
+import { researchOverview, projects, prototypes } from '@/lib/data'
 import { SectionTitle } from '@/components/SectionTitle'
 //import Link from 'next/link'
 import { ProjectCard } from '@/components/ProjectCard'
@@ -29,6 +29,21 @@ export default function ResearchPage() {
            <ProjectCard key={p.slug} project={p} clickable />
           ))}
         </div>
+      </section>
+
+      <section className="space-y-4">
+        <h3 className="text-xl font-semibold">Prototypes</h3>
+        {prototypes.map(p => (
+          <div className="rounded-xl2 border bg-panel p-6">
+            <div className="text-xl font-semibold">{p.title}</div>
+            <p className="text-neutralMid mt-2">{p.summary}</p>
+            {p.Url && (
+              <a href={p.Url} target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+                {p.Url}
+              </a>
+            )}
+          </div>
+        ))}
       </section>
     </div>
   )
