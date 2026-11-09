@@ -1194,7 +1194,7 @@ export const prototypes: Prototype[] = [
   {
   title: 'Building Carbon Dashboard',
   summary: 'A dashboard for visualizing carbon emissions in building projects on a Building Information Model.',
-  Url: 'https://carbon-dashboard-demo-production.up.railway.app/'
+  Url: 'https://carbon-digital-twin-prototype.app//'
   }
 ]
 
