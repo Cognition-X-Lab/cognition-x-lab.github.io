@@ -204,7 +204,7 @@ export const people: Person[] = [
     role: 'PhD Student (Visiting)',
     group: 'PhD',
     avatar: '/people/Felicia.jpg',
-    bio: 'Felicia is a visiting PhD student .',
+    bio: 'Felicia is a visiting PhD student from Cambridge University, England.',
     interests: [' '],
     education: [
     ],
@@ -213,6 +213,42 @@ export const people: Person[] = [
       github: ' ',
       linkedin: '',
       email: 'felicia.anderson@u.nus.edu',
+    },
+    intake: 'Fall 2026',
+    current: 'No',
+  },
+  {
+    id: 'phd-5',
+    slug: 'Chaoran-Guo',
+    name: 'Chaoran Guo',
+    role: 'PhD Student (Visiting, CSC-funded)',
+    group: 'PhD',
+    avatar: '/people/Chaoran.jpg',
+    bio: 'Chaoran is a CSC-funded visiting PhD student. Her research uses data-driven approaches to explore collaboration, knowledge flows, and decision-making in complex construction projects.',
+    interests: ['Green technology innovation',
+                'Knowledge graphs',
+                'Digital transformation in megaprojects'
+               ],
+    education: [
+      {
+        degree: 'PhD in Management Science and Engineering',
+        institution: 'Nanjing University, China',
+        year: '2024–Present'
+      },{
+        degree: 'M.S. in Management Science and Engineering',
+        institution: 'China University of Mining and Technology, China',
+        year: '2024'
+      },{
+        degree: 'B.S. in Engineering Management',
+        institution: 'Hebei University of Engineering, China',
+        year: '2021'
+      },
+    ],
+    links: {
+      scholar: '',
+      github: ' ',
+      linkedin: '',
+      email: 'guochaoran@u.nus.edu',
     },
     intake: 'Fall 2026',
     current: 'Yes',
