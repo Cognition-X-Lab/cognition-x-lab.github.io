@@ -1228,8 +1228,8 @@ export type Prototype = {
 }
 export const prototypes: Prototype[] = [
   {
-  title: 'Building Carbon Dashboard',
-  summary: 'A dashboard for visualizing carbon emissions in building projects on a Building Information Model.',
+  title: 'Carbon Digital Twin',
+  summary: 'A dashboard for monitoring and visualizing carbon emissions in building projects on a design Building Information Model.',
   Url: 'https://carbon-digital-twin-prototype.app//'
   }
 ]
